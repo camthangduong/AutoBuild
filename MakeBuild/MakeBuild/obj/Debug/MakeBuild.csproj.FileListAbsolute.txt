@@ -1,1 +1,9 @@
 c:\users\cam\documents\visual studio 2015\Projects\MakeBuild\MakeBuild\bin\Debug\MakeBuild.exe.config
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\bin\Debug\MakeBuild.exe.config
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\bin\Debug\MakeBuild.exe
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\bin\Debug\MakeBuild.pdb
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\bin\Debug\BuildLibrary.dll
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\bin\Debug\BuildLibrary.pdb
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\obj\Debug\MakeBuild.csprojResolveAssemblyReference.cache
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\obj\Debug\MakeBuild.exe
+C:\GIT\AutoBuild\MakeBuild\MakeBuild\obj\Debug\MakeBuild.pdb

@@ -1,0 +1,8 @@
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\bin\x86\Debug\BuildLibrary.dll
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\bin\x86\Debug\BuildLibrary.pdb
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\obj\x86\Debug\Interop.CaseViewGateway.dll
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\obj\x86\Debug\Interop.CaseWare.dll
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\obj\x86\Debug\BuildLibrary.csproj.ResolveComReference.cache
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\obj\x86\Debug\BuildLibrary.dll
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\obj\x86\Debug\BuildLibrary.pdb
+C:\GIT\AutoBuild\MakeBuild\BuildLibrary\obj\x86\Debug\BuildLibrary.csprojResolveAssemblyReference.cache
